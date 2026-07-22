@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1, "nick": "Kaduzin", "nome": "Carlos Eduardo", "funcao": "IGL", "foto": null,
+    "mapasFavoritos": ["Mirage", "Inferno"], "anos": 5, "lans": 9,
+    "vitorias": 34, "derrotas": 18, "kd": 1.12, "adr": 78.4, "hs": 41, "rating": 1.08,
+    "titulos": 3, "mvps": 4, "parceiro": "Zortex",
+    "evolucao": [0.9, 0.95, 1.02, 1.0, 1.05, 1.08],
+    "conquistas": ["campeao", "igl", "clutch1x4"]
+  },
+  {
+    "id": 2, "nick": "Zortex", "nome": "Bruno Alves", "funcao": "Entry Fragger", "foto": null,
+    "mapasFavoritos": ["Dust2", "Ancient"], "anos": 4, "lans": 8,
+    "vitorias": 30, "derrotas": 20, "kd": 1.24, "adr": 85.1, "hs": 48, "rating": 1.15,
+    "titulos": 2, "mvps": 6, "parceiro": "Kaduzin",
+    "evolucao": [1.0, 1.05, 1.1, 1.08, 1.12, 1.15],
+    "conquistas": ["mvp", "entry", "ace"]
+  },
+  {
+    "id": 3, "nick": "Nightowl", "nome": "Felipe Souza", "funcao": "AWPer", "foto": null,
+    "mapasFavoritos": ["Anubis", "Train"], "anos": 6, "lans": 10,
+    "vitorias": 36, "derrotas": 16, "kd": 1.31, "adr": 82.0, "hs": 35, "rating": 1.21,
+    "titulos": 4, "mvps": 5, "parceiro": "Kaduzin",
+    "evolucao": [1.05, 1.1, 1.15, 1.18, 1.19, 1.21],
+    "conquistas": ["campeao", "ace", "clutch1x5"]
+  },
+  {
+    "id": 4, "nick": "Pandinha", "nome": "Rafael Lima", "funcao": "Anchor", "foto": null,
+    "mapasFavoritos": ["Mirage", "Train"], "anos": 3, "lans": 6,
+    "vitorias": 20, "derrotas": 22, "kd": 0.94, "adr": 65.3, "hs": 30, "rating": 0.91,
+    "titulos": 1, "mvps": 1, "parceiro": "Zortex",
+    "evolucao": [0.8, 0.85, 0.88, 0.9, 0.9, 0.91],
+    "conquistas": ["anchor", "ecoking"]
+  },
+  {
+    "id": 5, "nick": "Vhz", "nome": "Vitor Hugo", "funcao": "Support", "foto": null,
+    "mapasFavoritos": ["Inferno", "Ancient"], "anos": 5, "lans": 9,
+    "vitorias": 28, "derrotas": 22, "kd": 1.02, "adr": 71.2, "hs": 38, "rating": 1.0,
+    "titulos": 2, "mvps": 2, "parceiro": "Nightowl",
+    "evolucao": [0.9, 0.92, 0.95, 0.98, 0.99, 1.0],
+    "conquistas": ["flashou", "support"]
+  },
+  {
+    "id": 6, "nick": "Trovao", "nome": "Diego Martins", "funcao": "Lurker", "foto": null,
+    "mapasFavoritos": ["Dust2", "Anubis"], "anos": 2, "lans": 4,
+    "vitorias": 14, "derrotas": 14, "kd": 1.05, "adr": 74.0, "hs": 44, "rating": 1.03,
+    "titulos": 0, "mvps": 1, "parceiro": "Pandinha",
+    "evolucao": [0.85, 0.9, 0.95, 0.98, 1.0, 1.03],
+    "conquistas": ["zerokills"]
+  }
+]

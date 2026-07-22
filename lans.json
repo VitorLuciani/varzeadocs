@@ -1,0 +1,11 @@
+[
+  { "id": 1, "nome": "LAN #01", "data": "2019-11-16", "jogadores": 8, "campeao": "Kaduzin & Nightowl", "vice": "Zortex & Pandinha", "mvp": "Nightowl", "mapas": 5, "obs": "Primeira edição, realizada na garagem." },
+  { "id": 2, "nome": "LAN #02", "data": "2020-08-22", "jogadores": 8, "campeao": "Zortex & Vhz", "vice": "Kaduzin & Nightowl", "mvp": "Zortex", "mapas": 6, "obs": "Primeiro servidor dedicado montado." },
+  { "id": 3, "nome": "LAN #03", "data": "2021-03-13", "jogadores": 10, "campeao": "Nightowl & Kaduzin", "vice": "Vhz & Trovao", "mvp": "Nightowl", "mapas": 7, "obs": "Primeira transmissão ao vivo no Painel." },
+  { "id": 4, "nome": "LAN #04", "data": "2021-12-04", "jogadores": 10, "campeao": "Kaduzin & Zortex", "vice": "Nightowl & Vhz", "mvp": "Zortex", "mapas": 6, "obs": "Compra de novos switches e mousepads." },
+  { "id": 5, "nome": "LAN #05", "data": "2022-07-09", "jogadores": 12, "campeao": "Nightowl & Vhz", "vice": "Kaduzin & Pandinha", "mvp": "Nightowl", "mapas": 8, "obs": "Primeiro ACE registrado oficialmente." },
+  { "id": 6, "nome": "LAN #06", "data": "2023-02-18", "jogadores": 12, "campeao": "Zortex & Trovao", "vice": "Nightowl & Kaduzin", "mvp": "Trovao", "mapas": 7, "obs": "Primeiro Hall da Fama montado." },
+  { "id": 7, "nome": "LAN #07", "data": "2023-10-14", "jogadores": 10, "campeao": "Kaduzin & Nightowl", "vice": "Zortex & Pandinha", "mvp": "Kaduzin", "mapas": 6, "obs": "Upgrade de internet para fibra dedicada." },
+  { "id": 8, "nome": "LAN #08", "data": "2024-06-01", "jogadores": 12, "campeao": "Nightowl & Zortex", "vice": "Vhz & Trovao", "mvp": "Zortex", "mapas": 7, "obs": "Introdução do sistema de conquistas." },
+  { "id": 9, "nome": "LAN #09", "data": "2025-01-25", "jogadores": 12, "campeao": "Kaduzin & Vhz", "vice": "Nightowl & Trovao", "mvp": "Vhz", "mapas": 8, "obs": "Primeira LAN com painel ao vivo em TV." }
+]
