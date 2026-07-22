@@ -579,13 +579,39 @@ function togglePagamento(i){
 /* ---------------- GALERIA ---------------- */
 function renderGaleria(){
   document.getElementById('galeriaGrid').innerHTML = DATA.config.galeria.map(g=>`
-    <div class="gallery-item" style="background:linear-gradient(135deg, ${g.cor}33, ${g.cor}11);" onclick="openGaleriaModal('${g.lan}')">
-      <span>${g.lan}</span>
-    </div>`).join('');
+    <div class="gallery-item" onclick="openGaleriaModal('LAN 01')">
+    <img src="assets/images/avatar.png">
+    <span>LAN 01</span>
+</div>`).join('');
 }
-function openGaleriaModal(lan){
+/*function openGaleriaModal(lan){
   document.getElementById('modalTitle').textContent = 'Galeria — ' + lan;
   document.getElementById('modalBody').innerHTML = `<div class="grid grid-3">${[1,2,3,4,5,6].map(()=>`<div class="gallery-item" style="background:linear-gradient(135deg,var(--orange-dim),var(--blue-dim));"></div>`).join('')}</div>`;
+  openModal();
+}*/
+function openGaleriaModal(lan){
+  document.getElementById('modalTitle').textContent = 'Galeria — ' + lan;
+
+  const fotos = [
+    'foto1.png',
+    'foto2.png',
+    'foto3.png',
+    'foto4.png',
+    'foto5.png',
+    'foto6.png'
+  ];
+
+  document.getElementById('modalBody').innerHTML = `
+    <div class="grid grid-3">
+      ${fotos.map(foto=>`
+        <div class="gallery-item">
+          <img src="assets/images/galeria/${foto}" 
+               style="width:100%;height:100%;object-fit:cover;">
+        </div>
+      `).join('')}
+    </div>
+  `;
+
   openModal();
 }
 

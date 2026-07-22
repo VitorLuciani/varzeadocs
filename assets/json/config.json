@@ -1,9 +1,9 @@
 {
   "servidor": {
     "status": "online",
-    "ip": "192.168.15.10",
-    "porta": "27015",
-    "senha": "lan2026",
+    "ip": "103.14.27.41",
+    "porta": "27223",
+    "senha": "465918",
     "mapaAtual": "de_mirage",
     "jogadores": "8/10",
     "tickrate": 128,
@@ -14,7 +14,7 @@
   "campeaoAtual": "Empate",
   "mvpAtual": "Leozin",
   "totalLans": 5,
-  "totalPartidas": 12,
+  "totalPartidas": 25,
   "totalJogadores": 12,
 
   "playbooks": [
@@ -28,17 +28,17 @@
 
   "hallDaFama": [
     { "titulo": "Mais Títulos", "icone": "fa-trophy", "jogador": "Leozin", "valor": "4 títulos" },
-    { "titulo": "Mais MVPs", "icone": "fa-crosshairs", "jogador": "Zortex", "valor": "6 MVPs" },
-    { "titulo": "Maior Sequência de Vitórias", "icone": "fa-fire", "jogador": "Leozin", "valor": "9 vitórias seguidas" },
+    { "titulo": "Mais MVPs", "icone": "fa-crosshairs", "jogador": "Leozin", "valor": "6 MVPs" },
+    { "titulo": "Maior Sequência de Vitórias", "icone": "fa-fire", "jogador": "VGL", "valor": "9 vitórias seguidas" },
     { "titulo": "Maior K/D", "icone": "fa-skull", "jogador": "Leozin", "valor": "1.31" },
-    { "titulo": "Maior ADR", "icone": "fa-bolt", "jogador": "Zortex", "valor": "85.1" },
-    { "titulo": "Mais Participações", "icone": "fa-calendar-check", "jogador": "Leozin", "valor": "10 LANs" },
-    { "titulo": "Mais Clutches", "icone": "fa-star", "jogador": "Leozin", "valor": "11 clutches" },
-    { "titulo": "Mais ACEs", "icone": "fa-medal", "jogador": "Zortex", "valor": "5 ACEs" },
-    { "titulo": "Mais Eco Wins", "icone": "fa-coins", "jogador": "Pandinha", "valor": "7 eco wins" },
-    { "titulo": "Maior Número de TK", "icone": "fa-user-slash", "jogador": "Trovao", "valor": "9 team kills" },
-    { "titulo": "Mais Flashou Aliado", "icone": "fa-sun", "jogador": "Vhz", "valor": "23 vezes" },
-    { "titulo": "Zero Kills em uma Partida", "icone": "fa-face-frown", "jogador": "Trovao", "valor": "3 vezes" }
+    { "titulo": "Maior ADR", "icone": "fa-bolt", "jogador": "Leozin", "valor": "85.1" },
+    { "titulo": "Mais Participações", "icone": "fa-calendar-check", "jogador": "Nuno", "valor": "10 LANs" },
+    { "titulo": "Mais Clutches", "icone": "fa-star", "jogador": "Willzera", "valor": "11 clutches" },
+    { "titulo": "Mais ACEs", "icone": "fa-medal", "jogador": "Magao", "valor": "5 ACEs" },
+    { "titulo": "Mais Eco Wins", "icone": "fa-coins", "jogador": "Boi", "valor": "7 eco wins" },
+    { "titulo": "Maior Número de TK", "icone": "fa-user-slash", "jogador": "Willzera", "valor": "9 team kills" },
+    { "titulo": "Mais Flashou Aliado", "icone": "fa-sun", "jogador": "Calinho", "valor": "23 vezes" },
+    { "titulo": "Zero Kills em uma Partida", "icone": "fa-face-frown", "jogador": "Boi", "valor": "3 vezes" }
   ],
 
   "conquistasCatalogo": [
@@ -54,19 +54,17 @@
     { "id": "anchor", "nome": "Anchor", "icone": "🛡️" },
     { "id": "flashou", "nome": "Flashou Aliado", "icone": "🤡" },
     { "id": "zerokills", "nome": "Zero Kills", "icone": "😅" },
+    { "id": "rei_da_lan", "nome": "Rei da LAN", "icone": "👑" },
     { "id": "support", "nome": "Suporte Dedicado", "icone": "🧰" }
   ],
 
   "timeline": [
-    { "data": "2019-11-16", "titulo": "Primeira LAN", "desc": "A primeira edição aconteceu com 8 jogadores em uma garagem." },
+    { "data": "2025-03-02", "titulo": "Primeira LAN", "desc": "A primeira edição aconteceu com 8 jogadores em uma garagem." },
     { "data": "2020-08-22", "titulo": "Primeiro Servidor Dedicado", "desc": "Montagem do primeiro servidor dedicado de CS." },
     { "data": "2021-03-13", "titulo": "Primeiro Campeonato Oficial", "desc": "Formato todos contra todos com tabela de classificação." },
     { "data": "2021-12-04", "titulo": "Compra do Primeiro Switch", "desc": "Rede cabeada estruturada para reduzir ping interno." },
-    { "data": "2022-07-09", "titulo": "Primeiro ACE Registrado", "desc": "Leozin fecha o primeiro ACE oficial da história da LAN." },
-    { "data": "2023-02-18", "titulo": "Primeiro MVP Consecutivo", "desc": "Zortex vence o MVP em duas edições seguidas." },
-    { "data": "2023-10-14", "titulo": "Upgrade de Equipamentos", "desc": "Novos monitores e mousepads adquiridos para a LAN." },
-    { "data": "2024-06-01", "titulo": "Sistema de Conquistas", "desc": "Lançamento das medalhas de perfil dos jogadores." },
-    { "data": "2025-01-25", "titulo": "Painel Ao Vivo em TV", "desc": "Primeira transmissão do painel ao vivo em uma TV grande." }
+    { "data": "2022-07-09", "titulo": "Primeiro ACE Registrado", "desc": "Leozin fecha o primeiro ACE oficial da história da LAN." }
+   
   ],
 
   "galeria": [

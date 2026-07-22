@@ -3,9 +3,9 @@
     "id": 1, "nick": "VGL", "nome": "Vitor Gabriel Luciani", "funcao": "IGL", "foto": null,
     "mapasFavoritos": ["Inferno"], "anos": 2, "lans": 4,
     "vitorias": 34, "derrotas": 18, "kd": 1.12, "adr": 78.4, "hs": 41, "rating": 1.08,
-    "titulos": 3, "mvps": 4, "parceiro": "Zortex",
+    "titulos": 3, "mvps": 4, "parceiro": "Willzera",
     "evolucao": [0.9, 0.95, 1.02, 1.0, 1.05, 1.08],
-    "conquistas": ["campeao", "igl", "clutch1x4"]
+    "conquistas": ["campeao", "igl", "clutch1x4","rei_da_lan"]
   },
   {
     "id": 2, "nick": "Calinho", "nome": "Carlos Eduardo Rech", "funcao": "Entry Fragger", "foto": null,
