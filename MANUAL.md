@@ -1,5 +1,4 @@
 # FRAGHOUSE — Manual de Manutenção e Configuração
-#Testeeeeeeee
 
 
 Este manual explica como personalizar o site com as informações reais da sua LAN e como fazer manutenção nele no dia a dia. Não é necessário saber programar para a maior parte das alterações — quase tudo fica em arquivos `.json`, que são só listas organizadas de dados.
